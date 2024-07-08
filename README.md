@@ -15,7 +15,7 @@ UZH's Cardano network has it's own Blockfrost instance which you can use to quer
 
 ### Using your browser
 - If you take a look at the [Blockfrost API documentation](https://blockfrost.dev/api/blockfrost-io-api-documentation) you can find an overview of all the API calls.
-- The base URL for UZH Blockfrost is http://130.60.144.75:3000
+- The base URL for UZH Blockfrost is http://cardano20.ifi.uzh.ch:3000
 
 
 ## Submitting Transactions
