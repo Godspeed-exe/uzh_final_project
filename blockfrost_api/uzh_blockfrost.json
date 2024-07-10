@@ -40539,7 +40539,7 @@
 	"variable": [
 		{
 			"key": "baseUrl",
-			"value": "http://cardano20.ifi.uzh.ch:3000"
+			"value": "http://cardano20.ifi.uzh.ch/v0"
 		}
 	]
 }
